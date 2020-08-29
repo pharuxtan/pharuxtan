@@ -11,3 +11,4 @@ I'm a JavaScript developer who make some project and sometime reverse engineer s
 - [Break the Buffer limit of nodejs by writing/reading a file (BufferUtility V2)](https://github.com/Pharuxtan/BufferUtility/tree/v2)
 - [Make an electron asar editor based on Atom style (ElectronAppEditor)](https://github.com/Pharuxtan/ElectronAppEditor)
 - [Make a plugins/themes manager for the Paladium Launcher (PowerPala)](https://github.com/Pharuxtan/powerpala)
+- [Make a FallGuys API take info from some website (fallguys-api)](https://github.com/Pharuxtan/fallguys-api)
