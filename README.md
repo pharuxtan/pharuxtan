@@ -13,7 +13,7 @@ I'm a JavaScript developer who make some project and sometime reverse engineer s
 - [Make a FallGuys API take info from some website (fallguys-api)](https://github.com/Pharuxtan/fallguys-api)
 
 <a href="https://github.com/pharuxtan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pharuxtan&show_icons=true&hide_border=true&bg_color=00000000&text_color=7f7f7f&custom_title=My%20stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pharuxtan&show_icons=true&hide_border=true&bg_color=00000000&text_color=7f7f7f&custom_title=My%20stats&card_width=465"/>
 </a>
 <a href="https://github.com/pharuxtan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pharuxtan&layout=compact&hide_border=true&bg_color=00000000&text_color=7f7f7f&langs_count=6" />
