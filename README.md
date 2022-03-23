@@ -1,5 +1,5 @@
-<img alt="hi" src="https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&size=25&duration=6000&color=7CFC00&vCenter=true&lines=%F0%9F%91%8B+Hi+there!;%E2%9C%A8+I'm+Tristan+(known+as+pharuxtan);%E2%AC%87%EF%B8%8F+Check+my+projects+below" />
-<img align="right" alt="stats" src="https://github-readme-stats.vercel.app/api?username=pharuxtan&show_icons=true&hide_border=true&bg_color=00000000&text_color=7f7f7f&custom_title=%F0%9F%8C%B1%20%20My%20stats&card_width=465&title_color=7CFC00&icon_color=7CFC00" />
+<img alt="hi" src="https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&size=25&duration=6000&color=4CBB17&vCenter=true&lines=%F0%9F%91%8B+Hi+there!;%E2%9C%A8+I'm+Tristan+(known+as+pharuxtan);%E2%AC%87%EF%B8%8F+Check+my+projects+below" />
+<img align="right" alt="stats" src="https://github-readme-stats.vercel.app/api?username=pharuxtan&show_icons=true&hide_border=true&bg_color=00000000&text_color=7f7f7f&custom_title=%F0%9F%8C%B1%20%20My%20stats&card_width=465&title_color=4CBB17&icon_color=4CBB17" />
 
 - 🇫🇷 French Developer
 - 🏫 High School student
@@ -22,9 +22,9 @@
 
 <div align="center">
   <a href="https://github.com/pharuxtan/sos-emulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pharuxtan&repo=sos-emulator&bg_color=00000000&text_color=7f7f7f&title_color=7CFC00" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pharuxtan&repo=sos-emulator&bg_color=00000000&text_color=7f7f7f&title_color=4CBB17" />
   </a>
   <a href="https://github.com/pharuxtan/BufferUtility">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pharuxtan&repo=BufferUtility&bg_color=00000000&text_color=7f7f7f&title_color=7CFC00" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pharuxtan&repo=BufferUtility&bg_color=00000000&text_color=7f7f7f&title_color=4CBB17" />
   </a>
 </div>
