@@ -9,7 +9,7 @@
 <div id="toc">
   <ul style="list-style: none">
     <summary>
-      <h2> 🛠 Programming languages:</h2>
+      <h2>🛠 Programming languages:</h2>
     </summary>
   </ul>
 </div>
@@ -27,7 +27,13 @@
 
 ---
 
-## 📌 Projects:
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h2>📌 Projects:</h2>
+    </summary>
+  </ul>
+</div>
 
 <div align="center">
   <a href="https://github.com/chowloader">
