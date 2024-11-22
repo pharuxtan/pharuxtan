@@ -6,7 +6,13 @@
 
 ---
 
-## 🛠 Programming languages:
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h2> 🛠 Programming languages:</h2>
+    </summary>
+  </ul>
+</div>
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
