@@ -9,21 +9,21 @@
 <div id="toc">
   <ul style="list-style: none">
     <summary>
-      <h2>🛠 Programming languages:</h2>
+      <h2>💻 Tech Stack:</h2>
     </summary>
   </ul>
 </div>
 
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/-CSS-00A6FF?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="ts" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
-  <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img alt="rust" src="https://img.shields.io/badge/-Zig-F7A41D?style=flat-square&logo=zig&logoColor=white" />
-  <img alt="c" src="https://img.shields.io/badge/--A8B9CC?style=flat-square&logo=c&logoColor=white" />
-</p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![STM32](https://img.shields.io/badge/stm32-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ARM](https://img.shields.io/badge/arm%20assembly-%230091BD.svg?style=for-the-badge&logo=arm&logoColor=white)
+![Verilog HDL](https://img.shields.io/badge/verilog%20hdl-%23323330.svg?style=for-the-badge&logo=verilog%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Svelte](https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-%2343853D.svg?style=for-the-badge&logo=Node.js&logoColor=white)
+![Zig](https://img.shields.io/badge/zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
@@ -36,10 +36,16 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/chowloader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chowloader&repo=chowloader&bg_color=00000000&text_color=7f7f7f&title_color=4CBB17" />
+  <a href="https://github.com/pharuxtan/stm32_cabri_g2_glasscockpit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pharuxtan&repo=stm32_cabri_g2_glasscockpit&bg_color=00000000&text_color=7f7f7f&title_color=4CBB17" />
   </a>
   <a href="https://github.com/pharuxtan/nboard-simulator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pharuxtan&repo=nboard-simulator&bg_color=00000000&text_color=7f7f7f&title_color=4CBB17" />
+  </a>
+  <a href="https://github.com/wootrevived/wootrevived">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wootrevived&repo=wootrevived&bg_color=00000000&text_color=7f7f7f&title_color=4CBB17" />
+  </a>
+  <a href="https://github.com/chowloader">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chowloader&repo=chowloader&bg_color=00000000&text_color=7f7f7f&title_color=4CBB17" />
   </a>
 </div>
